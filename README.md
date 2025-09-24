@@ -21,7 +21,7 @@ It's my first time making resourcepack, or any pixel art, really. Feel free to u
 
 ## Credits
 
-Some of the color palettes from ![](https://colormagic.app/)
+Some of the color palettes from [Color Magic](https://colormagic.app/)
 
 ## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
