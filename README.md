@@ -1,5 +1,5 @@
 # nomi-data-reskin
-Retexture of a few data in nomifactory CEu edition.
+Retexture of a few data in [Nomifactory CEu edition](https://github.com/Nomi-CEu/Nomi-CEu)
 
 In the game, my understanding of these data are that these are "data sets", as apposed to "data models" in DML/DME. I want to add a medium for those data to make them look more like an item.
 It's my first time making resourcepack, or any pixel art, really. Feel free to use and/or contribute.
@@ -28,7 +28,9 @@ It's my first time making resourcepack, or any pixel art, really. Feel free to u
 
 ## Credits
 
-Some of the color palettes from [Color Magic](https://colormagic.app/)
+Original idea from [Nomi Labs](https://github.com/Nomi-CEu/Nomi-Labs), and textures by [IntegerLimit](https://github.com/IntegerLimit)
+
+Some of the color palettes from [Color Magic](https://colormagic.app/), NO AI is involved.
 
 ## License
 
