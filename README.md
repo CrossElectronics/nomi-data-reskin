@@ -1,10 +1,17 @@
 # nomi-data-reskin
 Retexture of a few data in nomifactory CEu edition.
 
+In the game, my understanding of these data are that these are "data sets", as apposed to "data models" in DML/DME. I want to add a medium for those data to make them look more like an item.
 It's my first time making resourcepack, or any pixel art, really. Feel free to use and/or contribute.
 
 ## Previews
-**Stellar creation data**: It's the first data a player will get, therefore a floppy shows how basic it is.
+
+> Do note that GIF previews can show some flickering that's not in the game. This is probably due to quality loss during the conversion.
+
+**Impossible realm data**: Possibly the easiest data to obtain, therefore a floppy shows how basic it is.
+</br><img src="./preview/impossible-realm.gif" width="25%" height="25%">
+
+**Stellar creation data**: It's the first data an HM player will get, therefore a floppy shows how basic it is.
 </br><img src="./preview/stellar-creation.gif" width="25%" height="25%">
 
 **Dragon lair data**: From T4.5 MM, it has larger data capacity than before, I'll use a USB stick
